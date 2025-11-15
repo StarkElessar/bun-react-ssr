@@ -8,7 +8,7 @@ bun install
 
 To client build:
 ```bash
-bun build ./components/client.tsx --outdir ./public
+bun build ./components/entry-client.tsx --outdir ./public
 ```
 
 To run:
